@@ -39,35 +39,35 @@ public class LibraryController : MonoBehaviour {
 		//Neu scrifi dc bat
 		case 1:
 			//Sau do la Monster1
-			whichModelIsOn = 2;
+			whichModelIsOn =2;
 
 			scrifi.gameObject.SetActive (false);
 			monster1.gameObject.SetActive (true);
 			break;
 
 		case 2:
-			whichModelIsOn = 3;
+			whichModelIsOn =3;
 
 			monster1.gameObject.SetActive (false);
 			monster2.gameObject.SetActive (true);
 			break;
 
 		case 3:
-			whichModelIsOn = 4;
+			whichModelIsOn =4;
 
 			monster2.gameObject.SetActive (false);
 			monster3.gameObject.SetActive (true);
 			break;
 
 		case 4:
-			whichModelIsOn = 5;
+			whichModelIsOn =5;
 
 			monster3.gameObject.SetActive (false);
 			monster4.gameObject.SetActive (true);
 			break;
 
 		case 5:
-			whichModelIsOn = 1;
+			whichModelIsOn =1;
 
 			monster4.gameObject.SetActive (false);
 			scrifi.gameObject.SetActive (true);
