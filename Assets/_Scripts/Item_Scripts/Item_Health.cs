@@ -13,8 +13,7 @@ public class Item_Health : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider other){
-		if(other.tag == "Player"){
-			
+		if(other.tag == "Player"){		
 			PlayerHealth thePH = other.gameObject.GetComponent<PlayerHealth> ();
 			thePH.addHealth (healthAmount);
 			Destroy (gameObject);
