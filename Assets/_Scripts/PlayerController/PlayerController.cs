@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
-
 	public float speed = 4.0F;
 	public CharacterController controller;
 	public Animator anim;
@@ -11,7 +10,6 @@ public class PlayerController : MonoBehaviour {
 	public bool isMovingHorizontalRight = false;
 	public bool isMovingVerticalUp = false;
 	public bool isMovingVerticalDown = false;
-
 	public Camera cam;
 	public float camRayLength = 100f;
 	//Rigidbody playerRigidbody;
