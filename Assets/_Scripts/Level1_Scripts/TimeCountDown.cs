@@ -21,12 +21,7 @@ public class TimeCountDown : MonoBehaviour {
 		string minutes = ((int)t / 60).ToString ();
 		string seconds = (t %  60).ToString ("f0 ");
 		timeText.text = "Time: " + minutes + " : " + seconds;
-		//if (minutes.Contains ("0") && seconds.Contains ("0")) {
-		//	pauseButton.SetActive (false);
-		//	showDeadPanel.SetActive (true);
-		//	Time.timeScale = 0;
-		//}
-
+		
 	}
 
 }
