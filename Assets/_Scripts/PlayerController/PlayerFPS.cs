@@ -22,7 +22,6 @@ public class PlayerFPS : MonoBehaviour {
 	void Movement(){
 		moveFB = Input.GetAxis ("Vertical") * moveSpeed;
 		moveLR = Input.GetAxis ("Horizontal") * moveSpeed;
-
 		rotX = Input.GetAxis ("Mouse X") * mouseSensitivity;
 		rotY = Input.GetAxis ("Mouse Y") * mouseSensitivity;
 
