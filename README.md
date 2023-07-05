@@ -1,10 +1,10 @@
 
-![Trang chủ](./screenshots/Screenshot_1.png)
+![](./screenshots/Screenshot_1.png)
 
-Sản phẩm trong trang chủ
-![Trang chủ](./screenshots/Screenshot_2.png)
 
-Chi tiết sản phẩm
+![](./screenshots/Screenshot_2.png)
+
+
 ![Trang chủ](./screenshots/Screenshot_3.png)
 
 Đăng nhập
