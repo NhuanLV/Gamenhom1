@@ -32,3 +32,8 @@
 ![Trang chủ](./screenshots/Screenshot_11.png)
 
 ![Trang chủ](./screenshots/Screenshot_12.png)
+![Trang chủ](./screenshots/Screenshot_13.png)
+![Trang chủ](./screenshots/Screenshot_14.png)
+![Trang chủ](./screenshots/Screenshot_15.png)
+
+**VIDEO DEMO **
